@@ -1,0 +1,25 @@
+h1{
+    color: rgb(235, 133, 17);
+    background-color: rgb(107, 44, 44);
+}
+/*# - seletor de ID*/
+#p1{
+    font-size: 16px;
+    color: rgb(235, 133, 17);
+    background: wheat;
+}
+/* . - seletor de class*/
+.p2{
+    font-size: 50px;
+    color: rgb(107, 44, 44);
+    background: wheat; 
+}
+
+
+p{
+    font-size: 20px;
+    color: rgb(250, 246, 246);
+    background-color: rgb(107, 44, 44);
+}
+
+
